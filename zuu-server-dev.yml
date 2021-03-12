@@ -1,0 +1,8 @@
+eureka:
+  server: localhost
+  port: 12000
+
+# jwt密钥
+jwt:
+  config:
+    secret: develop-yaoyao0203fuqiang
